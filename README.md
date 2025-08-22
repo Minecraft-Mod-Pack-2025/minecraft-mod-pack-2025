@@ -54,9 +54,10 @@ Perfect for builders, adventurers, and PvP players.
 
 ### 🖼 Preview
 
-**1. Minecraft with Shaders**  
-![Shaders](https://play-lh.googleusercontent.com/fQLh66PXfyZe3FeKWROFFHMM4edFDQQPZZVV5Pip1LtSERLbBbi1xYfB7RhI-p9pSg=w526-h296-rw)  
-*Ultra-realistic lighting with SEUS shaders*
+**1. Survival Mod Gameplay**  
+![Survival Mods](https://i.ytimg.com/vi/MDGHttIlFns/maxresdefault.jpg)  
+*RPG-style survival with quest mods*
+
 
 **2. HD Resource Pack**  
 ![Resource Pack](https://resourcepack.net/fl/images/2019/08/Flows-HD-Resource-Pack-FOR-MINECRAFT-TEXTURES-hd-128X-4.jpg)  
